@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @quieroSer
 - 👀 I’m interested in learning!!! First, I was amazed by blockchain technology, and the philosophy behind bitcoin. Then, I was shitcoining for a little while. Then I figured I was going nowhere without learning about Linux, C++ or Python or JavaScript and so many other technologies, programming languages and so on.
 
+- I have finished the book Programming Bitcoin, by Jimmy Song. And I am also reading mastering bitcoin, by Andreas.
 - 🌱 I’m currently learning ... Front-End career path @codecademy and Linux @The Linux Foundation
 - 💞️ I’m looking to collaborate on ... any bitcoin project that I might be of use
 - 📫 How to reach me ... javier.ortiz.mir@gmail.com or jotao.mir@gmail.com 
